@@ -152,6 +152,10 @@ nav{
     border: 1px solid gainsboro;
     margin-left: 25px;
 }
+#box:hover{
+    box-shadow: 4px 2px 10px rgb(201, 199, 199);
+    cursor: pointer;
+}
 #pic{
     border-top-right-radius: 11px;
     border-top-left-radius: 11px;
